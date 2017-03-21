@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436674260596",
+    "project_id": "firebase-final496"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436674260596:android:1dc3292a1e1e3859",
+        "android_client_info": {
+          "package_name": "oregonstate.adamcewt.final496"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436674260596-m1f4vj8dpfc2h174kig69an6k5h2ov7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oregonstate.adamcewt.final496",
+            "certificate_hash": "a1cfe44125fe065a2baecff2d72e1c3178298880"
+          }
+        },
+        {
+          "client_id": "436674260596-ffodf9j0au5aqar52eqrbrf568chs39c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmiyvwX0_gaJP8EwXg3CXN17Cjdx6Q9L0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
